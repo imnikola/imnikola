@@ -4,11 +4,11 @@
 ### :scroll: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
--[Bits n’ Bytes Stego Challenge(HTB)](https://goodv1bes.com/2020/04/18/Bits-n-Bytes-stego-challenge(HTB).html)
+- [Bits n’ Bytes Stego Challenge(HTB)](https://goodv1bes.com/2020/04/18/Bits-n-Bytes-stego-challenge(HTB).html)
 <br>
--[HackTheBox Writeup](https://goodv1bes.com/2019/10/13/WriteUp(HTB).html)
+- [HackTheBox Writeup](https://goodv1bes.com/2019/10/13/WriteUp(HTB).html)
 <br>
--[Why don't you get a job? a.k.a Shutting down scammers]()
+- [Why don't you get a job? a.k.a Shutting down scammers]()
 
 <!-- BLOG-POST-LIST:END -->
 
