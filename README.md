@@ -8,7 +8,7 @@
 <br>
 - [HackTheBox Writeup](https://goodv1bes.com/2019/10/13/WriteUp(HTB).html)
 <br>
-- [Why don't you get a job? a.k.a Shutting down scammers]()
+- [Why don't you get a job? a.k.a Shutting down scammers](https://goodv1bes.com/2019/08/20/Why-don't-you-get-a-job-a.k.a-Shutting-down-scammers.html)
 
 <!-- BLOG-POST-LIST:END -->
 
