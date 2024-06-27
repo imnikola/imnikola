@@ -14,6 +14,9 @@
 
 ### Get this man a :beer:
 
+Solana:<br>
+8Jp9sLMebQPnhaVk4b175FXH3maYReV17XzqLgSTQeUc
+
 Ethereum:<br>
 0xb4f3c4cb3ec62f95308649b62d3cf3d627550243
 
