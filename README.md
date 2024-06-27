@@ -18,7 +18,7 @@ Solana:<br>
 8Jp9sLMebQPnhaVk4b175FXH3maYReV17XzqLgSTQeUc
 
 Ethereum:<br>
-0xb4f3c4cb3ec62f95308649b62d3cf3d627550243
+0x3a177aab5ec9f6Df299888d7dBACc5C8fb7A251e
 
 Monero:<br>
 86jBvRiA51SCZZ6crYCimAcumqkaXAXyjPcEKLMbZa9Da6bKg4d8hsLUhfYVmkTJqqWNHVJ9yS43v9pvci62Wn9Y2tRPm7u
